@@ -1,0 +1,28 @@
+
+	Balancing fo Sysbols
+	Infix to postfix/ prefix  conversions
+	Redo Undo features like editors , photoshop
+	Forward and backward featur ein web browsers
+	used in many algos:
+		Stock Span
+		min Max
+		Tower of Hanoi
+		Tree Traversal
+		Histogram problem
+
+	Knight tour porblem
+	Backtracking
+	rat in a maze
+	N queen problem
+	Sudoku solver
+
+https://www.youtube.com/watch?v=vZEuSFXSMDI&list=PLqM7alHXFySF7Lap-wi5qlaD8OEBx9RMV
+
+
+
+all problems where you's proceed and walk backwards
+
+calculating range:
+Stock span
+Largest Rect
+Min Max
